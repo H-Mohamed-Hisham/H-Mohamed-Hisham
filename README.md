@@ -3,7 +3,7 @@
   🚀 Front-End Developer | React | Next.js | TypeScript | Full-Stack Enthusiast
 </p>
 <p>
-    Frontend Developer with 5+ years of experience building scalable web applications focused on delivering exceptional user experiences. Specializing in React and Redux for dynamic interfaces, Next.js for server-rendered and statically generated applications, TypeScript for robust type safety, and TailwindCSS for efficient, responsive styling, I possess a strong foundation in core JavaScript. My contributions to an India-based stock market analytics platform and ongoing work on an AI-powered crypto analytics web app highlight my expertise in API integration, AI-generated report streaming, and chatbot UI development. Passionate about full-stack development, I am currently learning Python and SQL to enhance my backend skills. I hold a B.Tech in Information Technology from SRM University, Chennai.
+    Frontend Developer with 4 years of experience building scalable web applications focused on delivering exceptional user experiences. Specializing in React and Redux for dynamic interfaces, Next.js for server-rendered and statically generated applications, TypeScript for robust type safety, and TailwindCSS for efficient, responsive styling, I possess a strong foundation in core JavaScript. My contributions to an India-based stock market analytics platform and ongoing work on an AI-powered crypto analytics web app highlight my expertise in API integration, AI-generated report streaming, and chatbot UI development. Passionate about full-stack development, I am currently learning Python and SQL to enhance my backend skills. I hold a B.Tech in Information Technology from SRM University, Chennai.
 </p>
 
 <ul>
